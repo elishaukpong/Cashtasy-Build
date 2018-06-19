@@ -1,7 +1,10 @@
 Cashtasy Startup Private Repo
 
+SETTING UP LOCALLY
 Clone Repo
-Run Composer Install to install project dependencies on you local
-Serve via "php artisan serve"
+Run Composer install to install project dependencies on your local machine
+Serve project via "php artisan serve"
 
 Currently Building the UI/UX
+.
+Use pull requests to request Merging of features
